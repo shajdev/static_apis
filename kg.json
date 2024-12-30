@@ -40,7 +40,7 @@
     "windows": {
       "version": "2.0.0",
       "buildNumber": "2.0.0",
-      "downloadUrl": "https://github.com/KahfGuard/PublicConfiguration/raw/main/releases/KahfGuard-Setup-2.0.0.msi",
+      "downloadUrl": "https://github.com/KahfGuard/PublicConfiguration/raw/refs/heads/main/releases/v3/KahfGuard-V3-alpha.msi",
       "minimumOSVersion": "10.0",
       "installerType": "msi",
       "installerSize": "45.8MB",
