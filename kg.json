@@ -131,7 +131,7 @@
         "windows",
         "mac"
       ],
-      "imageUrl": "https://github.com/KahfGuard/PublicConfiguration/blob/main/banner/ramadan_2024.jpg?raw=true",
+      "imageUrl": "https://github.com/KahfGuard/PublicConfiguration/blob/main/banner/1.jpg?raw=true",
       "linkUrl": "https://kahfguard.com/ramadan2024",
       "width": 800,
       "height": 200,
@@ -146,7 +146,7 @@
         "android",
         "ios"
       ],
-      "imageUrl": "https://github.com/KahfGuard/PublicConfiguration/blob/main/banner/premium_offer.jpg?raw=true",
+      "imageUrl": "https://github.com/KahfGuard/PublicConfiguration/blob/main/banner/1.jpg?raw=true",
       "linkUrl": "kahfguard://premium/offer",
       "width": 800,
       "height": 150,
@@ -160,7 +160,7 @@
       "platforms": [
         "windows"
       ],
-      "imageUrl": "https://github.com/KahfGuard/PublicConfiguration/blob/main/banner/win_update.jpg?raw=true",
+      "imageUrl": "https://github.com/KahfGuard/PublicConfiguration/blob/main/banner/1.jpg?raw=true",
       "linkUrl": "kahfguard://update",
       "width": 600,
       "height": 100,
@@ -177,7 +177,7 @@
         "windows",
         "mac"
       ],
-      "imageUrl": "https://github.com/KahfGuard/PublicConfiguration/blob/main/banner/blog_ramadan.jpg?raw=true",
+      "imageUrl": "https://github.com/KahfGuard/PublicConfiguration/blob/main/banner/1.jpg?raw=true",
       "linkUrl": "https://kahfguard.com/blog/ramadan-preparation",
       "width": 800,
       "height": 400,
