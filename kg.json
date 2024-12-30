@@ -48,7 +48,7 @@
         "x64",
         "arm64"
       ],
-      "forceUpdate": false,
+      "forceUpdate": true,
       "updateMessage": {
         "en": "Added Windows 11 support and dark mode",
         "bn": "উইন্ডোজ ১১ সাপোর্ট এবং ডার্ক মোড যোগ করা হয়েছে"
