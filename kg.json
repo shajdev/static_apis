@@ -136,7 +136,7 @@
       "width": 800,
       "height": 200,
       "isActive": true,
-      "priority": 1
+      "priority": 2
     },
     {
       "id": "promo_001_31",
@@ -153,7 +153,7 @@
       "width": 800,
       "height": 400,
       "isActive": true,
-      "priority": 4
+      "priority": 1
     }
   ],
   "maintenance": {
