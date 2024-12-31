@@ -122,6 +122,23 @@
   },
   "banners": [
     {
+      "id": "shorobor_001",
+      "type": "ad",
+      "position": "top",
+      "platforms": [
+        "android",
+        "ios",
+        "windows",
+        "mac"
+      ],
+      "imageUrl": "https://github.com/KahfGuard/PublicConfiguration/blob/main/banner/1.jpg?raw=true",
+      "linkUrl": "https://shorobor.biz/product-category/beauty-products/",
+      "width": 800,
+      "height": 200,
+      "isActive": true,
+      "priority": 2
+    },
+    {
       "id": "promo_001_31",
       "type": "promo",
       "position": "feed",
