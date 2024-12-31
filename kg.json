@@ -122,8 +122,8 @@
   },
   "banners": [
     {
-      "id": "ramadan_2024",
-      "type": "promo",
+      "id": "shorobor_001",
+      "type": "ad",
       "position": "top",
       "platforms": [
         "android",
@@ -132,44 +132,15 @@
         "mac"
       ],
       "imageUrl": "https://github.com/KahfGuard/PublicConfiguration/blob/main/banner/1.jpg?raw=true",
-      "linkUrl": "https://kahfguard.com/ramadan2024",
+      "linkUrl": "https://shorobor.biz/product-category/beauty-products/",
       "width": 800,
       "height": 200,
       "isActive": true,
       "priority": 1
     },
     {
-      "id": "premium_offer",
-      "type": "ad",
-      "position": "bottom",
-      "platforms": [
-        "android",
-        "ios"
-      ],
-      "imageUrl": "https://github.com/KahfGuard/PublicConfiguration/blob/main/banner/1.jpg?raw=true",
-      "linkUrl": "kahfguard://premium/offer",
-      "width": 800,
-      "height": 150,
-      "isActive": true,
-      "priority": 2
-    },
-    {
-      "id": "windows_update",
-      "type": "info",
-      "position": "top",
-      "platforms": [
-        "windows"
-      ],
-      "imageUrl": "https://github.com/KahfGuard/PublicConfiguration/blob/main/banner/1.jpg?raw=true",
-      "linkUrl": "kahfguard://update",
-      "width": 600,
-      "height": 100,
-      "isActive": false,
-      "priority": 3
-    },
-    {
-      "id": "blog_ramadan",
-      "type": "blog",
+      "id": "promo_001_31",
+      "type": "promo",
       "position": "feed",
       "platforms": [
         "android",
@@ -177,8 +148,8 @@
         "windows",
         "mac"
       ],
-      "imageUrl": "https://github.com/KahfGuard/PublicConfiguration/blob/main/banner/1.jpg?raw=true",
-      "linkUrl": "https://kahfguard.com/blog/ramadan-preparation",
+      "imageUrl": "https://i.ibb.co.com/sP5N68T/31-kahf-min.png",
+      "linkUrl": "https://savetheyouth.kahf.com.tr",
       "width": 800,
       "height": 400,
       "isActive": true,
